@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+	"homepage": "https://vieiraa360.github.io/elsa-site"
   },
   "dependencies": {
     "@base44/sdk": "^0.1.2",
